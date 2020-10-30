@@ -1,0 +1,21 @@
+{
+  "name": "papayas",
+  "version": "1.0.0",
+  "description": "Telegram BOT using wit.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Master",
+    "Chef"
+  ],
+  "author": "Reza Primasatya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "node-wit": "^6.0.0",
+    "sqlite3": "^5.0.0"
+  }
+}
